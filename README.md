@@ -1,6 +1,8 @@
 # react-native-db
 Forked from https://github.com/thewei/react-native-store
 
+This module was inspired by Laravel's excellent Eloquent API. But I've not had enough time yet to reach anywhere near feature parity or even change from using static methods for most. Pull requests are welcome!
+
 ## Setup
 
 ### Install
